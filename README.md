@@ -1,6 +1,6 @@
-# DLND Your First Neural Network
+# DLND Image Classification
 
-Project 1 Submission for the Udacity Deep Learning Nanodegree
+Project 2 Submission for the Udacity Deep Learning Nanodegree
 
 ## Running the Udacity Deep Learning Foundations image classification project on floydhub.com
 
